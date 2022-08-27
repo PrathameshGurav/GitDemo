@@ -14,5 +14,6 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 		System.out.println("Adding in devlopbranch by Asian Archtect");
+		System.out.println("Adding in devlopbranch by American  Archtect");
 	}
 }
